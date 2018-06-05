@@ -49,4 +49,4 @@ Relation cause à effet entre naissance,mortalité et répartition des tranches 
 
 ## Authors/Auteurs
 * **AIDARA Sidi Mohamed** - [Sidson Aidson](https://github.com/SidsonGGMU)
-* **BODIANG Assane** - [Zou](https://github.com/BodiangAssane)
+* **BODIANG Assane** - [bodiangas](https://github.com/BodiangAssane)
